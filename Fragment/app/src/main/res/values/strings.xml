@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="buttonOne">Button 1</string>
+    <string name="buttonTwo">Button 2</string>
+
+    <string name="checkBoxOne">CheckBox 1</string>
+    <string name="checkBoxTwo">CheckBox 2</string>
+
+    <string name="logo">Logo</string>
+</resources>
